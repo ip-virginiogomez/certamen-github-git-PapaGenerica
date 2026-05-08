@@ -1,4 +1,6 @@
-#676c1d0 (HEAD -> main, origin/main, origin/HEAD) si
-#89e6f76 feat: agrego mi archivo de presentacion
-#5a11613 add online IDE url; add deadline
-#c158d99 Initial commit
+a638688 (HEAD -> main, origin/main, origin/HEAD) historial
+416d276 feat: agrego historial de commits
+676c1d0 si
+89e6f76 feat: agrego mi archivo de presentacion
+5a11613 add online IDE url; add deadline
+c158d99 Initial commit
